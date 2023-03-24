@@ -1,6 +1,6 @@
 import openai
 
-API_KEY = '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'
+API_KEY = ''
 openai.api_key = API_KEY
 
 model_id = 'gpt-3.5-turbo'
